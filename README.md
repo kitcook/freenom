@@ -54,7 +54,7 @@ Documentation: [English version](https://github.com/luolongfei/freenom/blob/main
 
 [🥝 开源协议](#-开源协议)
 
-### 📢 注意
+### 📢 注意.....
 
 - 之前因为 GitHub Action 事件导致本项目被封禁，而后我短暂将项目转移到了 https://github.com/luolongfei/next-freenom
   仓库，然后在 [@Mattraks](https://github.com/Mattraks) 的提醒下，通过特别的方式恢复了本仓库。
